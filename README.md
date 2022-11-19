@@ -1,7 +1,7 @@
 # kalkulatory
 # projekt który jest bez sensu :/
 
-### masz pobrane sdk (np. <a href"https://python.org">pythona</a> lub <a href="https://dotnet.microsoft.com">dotnet</a>)?
+### masz pobrane sdk (np. [pythona]<https://python.org> lub [dotnet]<https://dotnet.microsoft.com>)?
 wejdz w zakładkę "kod"
 
 ### nie masz pobranego sdk?
