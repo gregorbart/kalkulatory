@@ -16,11 +16,11 @@ def printtheresult(n1,n2,div,res):
     print(f"{n1}{div}{n2}={res}")
 
 if dzi == "+":
-    printtheresult(num1,num2,dzi,result)
     result=num1+num2
-elif dzi == "-":
     printtheresult(num1,num2,dzi,result)
+elif dzi == "-":
     result=num1-num2
+    printtheresult(num1,num2,dzi,result)
 elif dzi == "*":
     result=num1*num2
     printtheresult(num1,num2,dzi,result)
