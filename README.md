@@ -15,4 +15,4 @@ Z SDK:
 |Windows: `py python.py`| 
 
 Bez SDK:
-`jedynie klikasz na plik .exe.`
+`jedynie klikasz na plik .exe którego pobrałeś`
