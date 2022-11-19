@@ -1,5 +1,5 @@
 # kalkulatory
-## projekt który jest bez sensu :/
+# projekt który jest bez sensu :/
 
 ### masz pobrane sdk?
 wejdz w zakładkę "kod"
