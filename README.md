@@ -1,19 +1,18 @@
-# kalkulatory
-# projekt który jest bez sensu :/
+**Kalkulator**
+**Ten projekt jest bez sensu :/**
 
-## JAK URUCHOMIĆ?
+ > JAK Pobrać?
+ - Kiedy masz SDK to pobierasz pliki z katalogu [kod](https://github.com/gregorbart/kalkulatory/tree/main/kod).
+ - Kiedy NIE masz to pobierasz pliki z katalogu [pliki exekucyjne](https://github.com/gregorbart/kalkulatory/tree/main/pliki%20exekucyjne%20%28.exe%29).
+ 
 
-masz pobrane sdk (np. [pythona](https://python.org) lub [dotnet](https://dotnet.microsoft.com))?
-wejdz w zakładkę "[kod](https://github.com/gregorbart/kalkulatory/tree/main/kod)"
+>  Jak Uruchomić?
+ 
 
-nie masz pobranego sdk?
-wejdz w zakładkę "[pliki exekucyjne (.exe)](https://github.com/gregorbart/kalkulatory/tree/main/pliki%20exekucyjne%20(.exe))"
-zainstaluj i uruchom jak aplikację.
+ - Z SDK:
+ Python: `python3 python.py` lub `py python.py`
+ .NET: `dotnet run`
+ - Bez SDK
+ Jedynie na windowsie pobierasz plik .exe i klikasz i masz uruchomiony program.
 
-Z SDK:
 
-dotnet
-`dotnet run`
-
-python
-`py main.py` or `python3 main.py`
