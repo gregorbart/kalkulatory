@@ -19,7 +19,7 @@ namespace Kalkulator
                 Console.Write("Wprowadź Drugą liczbę: ");
                 num2 = Convert.ToDouble(Console.ReadLine());
 
-                Console.WriteLine("Wprowadź Działanie: ");
+                Console.WriteLine("Działania: ");
                 Console.WriteLine("\t+ : Dodaj");
                 Console.WriteLine("\t- : Odejmnij");
                 Console.WriteLine("\t* : Pomnórz");
