@@ -1,5 +1,4 @@
 **Kalkulator**
-
 **Ten projekt jest bez sensu :/**
 
  > JAK Pobrać?
@@ -9,8 +8,11 @@
 
 >  Jak Uruchomić?
  
-
+Z SDK:
 |Python|.NET|
 |--|--|
 |Mac/Linux: `python3 python.py`| `dotnet run` |
 |Windows: `py python.py`| 
+
+Bez SDK:
+`jedynie klikasz na plik .exe.`
