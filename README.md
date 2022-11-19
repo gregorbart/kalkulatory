@@ -9,10 +9,10 @@
 >  Jak Uruchomić?
  
 
- - Z SDK:
- Python: `python3 python.py` lub `py python.py`
+ - Z SDK: 
+ Python: `python3 python.py` lub `py python.py` 
  .NET: `dotnet run`
- - Bez SDK
+ - Bez SDK:
  Jedynie na windowsie pobierasz plik .exe i klikasz i masz uruchomiony program.
 
 
